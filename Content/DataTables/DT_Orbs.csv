@@ -1,0 +1,5 @@
+RowName,Type,IsTimeBased,Lifetime,MaxBounces,BasePower,AbilityTag
+Basic,Basic,false,0,12,1.0,None
+Lightning,Lightning,false,0,10,0.9,Chain
+Fire,Fire,true,6.0,0,0.85,Burn
+Ice,Ice,false,0,10,0.9,Freeze
